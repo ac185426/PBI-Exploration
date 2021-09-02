@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Power BI-Client-React`
+This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your React application.
+
+The command: ```npm i powerbi-client-react``` can be used in the terminal.
+
 
 ### `React-Grid-Layout`
 
@@ -14,7 +19,7 @@ Pulls the [React-Grid-Layout](https://github.com/react-grid-layout/react-grid-la
 Using the Power BI REST API, [create dashboard](https://docs.microsoft.com/en-us/rest/api/power-bi/dashboards/add-dashboard), the user will be able to make new dashboards within their own workspace on Power BI.
 
 ### `Create Visual`
-Creating a visual will allow the user to decide what kind of data visualization they create
+Creating a visual will allow the user to decide what kind of out of the box data visualization they create. EX.) bar chart, donut chart, column chart, etc. More info about visuals [here](https://docs.microsoft.com/en-us/javascript/api/overview/powerbi/create-add-visual)
 ```if (!authoringPage) {
     console.log("Authoring page is undefined. Please run 'Create an authoring page' first.");
 } else {
