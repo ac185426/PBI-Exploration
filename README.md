@@ -5,12 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Power BI-Client-React`
 This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your React application.
 
-The command: ```npm i powerbi-client-react``` can be used in the terminal.
+The install command: ```npm i powerbi-client-react``` can be used in the terminal.
+
+[Tutorial of importing libraries and embedding report](https://www.youtube.com/watch?v=A5KFY5Jh1Uc)
 
 
 ### `React-Grid-Layout`
 
 Pulls the [React-Grid-Layout](https://github.com/react-grid-layout/react-grid-layout#demos) to use as a component in having users create their own personalized dashboard. These dashboards/reports will depend on the current data visualizations available within Power BI.
+
+The install command: ```npm i react-grid-layout```
 
 ### `Power BI Authentication`
 
