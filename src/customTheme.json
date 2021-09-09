@@ -1,0 +1,7 @@
+{
+    "name": "NCR DS Sequential Colors v1",
+    "dataColors": ["#5938BE", "#705ACA", "#8275D3", "#5565FD", "#1C6DDF", "#3686F7", "#6F97F9", "#A6B7FA"],
+    "background":"#FFFFFF",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#F4F4F4"
+}
